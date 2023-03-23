@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "824838237845",
+    "firebase_url": "https://sveltetaxi-default-rtdb.firebaseio.com",
+    "project_id": "sveltetaxi",
+    "storage_bucket": "sveltetaxi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824838237845:android:1890f1a678cd2bd834f59c",
+        "android_client_info": {
+          "package_name": "com.example.androidcargotaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824838237845-cq4pk803p99jefi79a612is99v7rtl9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzvXQtoF0XdBbAwB47Anx4XxrWL6umbT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824838237845-cq4pk803p99jefi79a612is99v7rtl9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824838237845:android:525e98797e347fa134f59c",
+        "android_client_info": {
+          "package_name": "ru.gorbulevsv.androidlientreceivingmessages"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824838237845-cq4pk803p99jefi79a612is99v7rtl9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzvXQtoF0XdBbAwB47Anx4XxrWL6umbT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824838237845-cq4pk803p99jefi79a612is99v7rtl9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824838237845:android:0a246485372dc72d34f59c",
+        "android_client_info": {
+          "package_name": "ru.gorbulevsv.androidnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824838237845-cq4pk803p99jefi79a612is99v7rtl9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzvXQtoF0XdBbAwB47Anx4XxrWL6umbT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824838237845-cq4pk803p99jefi79a612is99v7rtl9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
